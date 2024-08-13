@@ -5,7 +5,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevipinmaurya)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevipinmaurya&theme=dark#gh-dark-mode-only)](https://github.com/mevipinmaurya)
 
 <!--
 **mevipinmaurya/mevipinmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
