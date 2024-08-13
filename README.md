@@ -1,4 +1,6 @@
-## Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
+[![MasterHead](https://drive.google.com/file/d/1p6kqczqDkl3D455AOFjUtzk7Rvo0B4BA/view?usp=drive_link)](https://github.com/mevipinmaurya)
+
+Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
 
   
 
