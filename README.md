@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1723584577374-63735b16ee03?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://github.com/mevipinmaurya)
+[![MasterHead](https://images.unsplash.com/photo-1723584940908-4ce73e747c34?q=80&w=2026&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://github.com/mevipinmaurya)
 
 Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
 
