@@ -1,5 +1,8 @@
 ## Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development, I enjoy diving into new technologies and contributing to open-source projects 🎃. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevipinmaurya)](https://git.io/streak-stats)
+
 <!--
 **mevipinmaurya/mevipinmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
