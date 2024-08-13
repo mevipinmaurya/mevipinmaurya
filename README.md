@@ -1,4 +1,4 @@
-[![MasterHead](https://postimg.cc/zVB74Ch7)](https://github.com/mevipinmaurya)
+[![MasterHead](https://ibb.co/VMBFcvt)](https://github.com/mevipinmaurya)
 
 Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
 
