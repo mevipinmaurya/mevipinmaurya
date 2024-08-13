@@ -1,8 +1,8 @@
-## Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development, I enjoy diving into new technologies and contributing to open-source projects 🎃. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
+## Hi there 👋 I’m a Computer Science student 💻 with a passion for software development and a knack for turning ideas 💡 into functional code. Currently exploring the realms of algorithms 😃, data structures, and software development. Feel free to explore my repositories and connect with me 🔍— I’m always open to new challenges and collaborations 🖌!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mevipinmaurya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a style="color: green" href="https://www.linkedin.com/in/mevipinmaurya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://x.com/me_vipinmaurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
