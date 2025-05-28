@@ -10,6 +10,12 @@ I’m a Computer Science student 💻 with a passion for software development an
 
 👉 The darkest nights produce the brightest stars. Don't give up; your light is coming.
 
+🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,pug,nextjs,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,aws,postman,jquery,java,c" />
+</p>
+
 Keep Coding ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mevipinmaurya&theme=dark#gh-dark-mode-only)](https://github.com/mevipinmaurya)
